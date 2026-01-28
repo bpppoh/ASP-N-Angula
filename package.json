@@ -1,0 +1,10 @@
+{
+  "name": "asp-n-angula-root",
+  "private": true,
+  "scripts": {
+    "build": "cd DatingApp/client && bun install && bun run build"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
