@@ -1,0 +1,4 @@
+{
+  "outputDirectory": "client/dist/client/browser",
+  "framework": "angular"
+}

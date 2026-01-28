@@ -1,0 +1,10 @@
+{
+  "name": "dating-app-root",
+  "private": true,
+  "scripts": {
+    "build": "cd client && bun install && bun run build"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
